@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Dataset
+pirandello_dataset/
+pirandello_hf_dataset/
+
+# Model output
+pirandello_lora/checkpoint-*/
+pirandello_merged/
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+hugging token.txt
+.env
+backend/.env
+
+# Temp
+llama.cpp_temp/
+Modelfile
+
+# Node / Webapp
+webapp/node_modules/
+webapp/dist/
+
+# Flutter / Mobile
+mobile_app/.dart_tool/
+mobile_app/.packages
+mobile_app/build/
+mobile_app/.flutter-plugins
+mobile_app/.flutter-plugins-dependencies
+mobile_app/pubspec.lock
+mobile_app/android/.gradle/
+mobile_app/android/local.properties
+mobile_app/android/key.properties
+mobile_app/ios/Pods/
+mobile_app/ios/.symlinks/
+
+# Backend runtime
+backend/memory/chat_history.db
+backend/memory/chromadb_store/
+backend/logs/
+backend/outputs/
+backend/providers_state.json
+
+# OS
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+# TTS voice cloning (Python 3.9–3.11). Installato con: py -3.11 -m pip install -r requirements-tts.txt
+#
+# GPU (consigliato - ~100x più veloce):
+#   py -3.11 -m pip install -r requirements-tts.txt --index-url https://download.pytorch.org/whl/cu126
+#
+# Solo CPU:
+#   py -3.11 -m pip install -r requirements-tts.txt
+TTS==0.22.0
+torch>=2.1.0
+torchaudio>=2.1.0
+huggingface_hub>=0.20.0
+transformers>=4.30,<4.46
+torchcodec>=0.13.0

@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "17126b7470460ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d66b30513d33e42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e0a48062d628908",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c20b5bbc50918da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c3caa4be27b44e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c42ffe30766d785c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f0e640f4029c29c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b44ba7df88141fd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f365c03d7c58a19d",
+    "type": "split",
+    "children": [
+      {
+        "id": "62276dcf4812cef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78e631ede5869456",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "310e80c702ccdabd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3bacc73038890085",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c634279ade2ccc49",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5f752142eacf615f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8e0a48062d628908",
+  "lastOpenFiles": [
+    "assets/test mobile app.png",
+    "assets/test chat webapp.png",
+    "assets/grafico.png",
+    "screeenshot/test mobile app.png",
+    "screeenshot/test chat webapp.png",
+    "screeenshot/test mobile.png.~tmp",
+    "screeenshot/test mobile.png",
+    "screeenshot/Screenshot_20260527-221713.pirandello_mobile.png",
+    "mobile_app/build/app/intermediates/packaged_res/release/packageReleaseResources/mipmap-anydpi-v26/ic_launcher.xml",
+    "mobile_app/build/app/intermediates/packaged_res/release/packageReleaseResources/mipmap-anydpi-v26",
+    "wiki/pages/entities/luigi-pirandello.md",
+    "wiki/pages/sources/enrico-iv.md",
+    "backend/memory/chat_history.db-journal",
+    "backend/memory/chromadb_store/chroma.sqlite3-journal",
+    "LLM-WIKI.md",
+    "backend/outputs/voice_8ff082f3-1e6a-47c1-b4c5-1eab9910629c_52e7be73a1b09758d4ed55c31b4bcbd1.wav",
+    "backend/outputs/voice_8ff082f3-1e6a-47c1-b4c5-1eab9910629c_52e7be73a1b09758d4ed55c31b4bcbd1_chunk1.wav",
+    "backend/outputs/voice_8ff082f3-1e6a-47c1-b4c5-1eab9910629c_52e7be73a1b09758d4ed55c31b4bcbd1_chunk0.wav",
+    "screeenshot/esempio chat webapp.png",
+    "screeenshot/Screenshot 2026-05-27 212637.png",
+    "screeenshot/Screenshot 2026-05-27 212454.png",
+    "screeenshot/Screenshot 2026-05-27 212329.png",
+    "backend/outputs/voice_da0ff008-4017-4384-93e4-6eedcadee7e7_908e3b7aa07acda588f989ba8f833102.wav",
+    "mobile_app/build/app/intermediates/shrunk_resources_proto_format/release/minifyReleaseWithR8/shrunk-resources-proto-format-release.ap_",
+    "capocomico.md",
+    "figlio-sei-personaggi.md",
+    "madre-sei-personaggi.md",
+    "adriana-paleari.md",
+    "tempo.md",
+    "padre-sei-personaggi.md",
+    "tito-belcredi.md",
+    "matilde-spina.md",
+    "wiki/pages/entities/serafino-gubbio.md",
+    "tecnologia.md",
+    "README.md",
+    "wiki/pages/queries/cosa-e-lumorismo.md",
+    "wiki/pages/concepts/umorismo.md",
+    "wiki/pages/sources/cosi-e-se-vi-pare.md",
+    "wiki/pages/entities/la-velata.md",
+    "wiki/pages/sources/sei-personaggi.md",
+    "wiki/pages/concepts/doppio.md",
+    "wiki/pages/sources/umorismo-saggio.md",
+    "2026-05-21.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "wiki/pages/concepts/metateatro.md",
+    "wiki/pages/concepts/relativismo.md"
+  ]
+}

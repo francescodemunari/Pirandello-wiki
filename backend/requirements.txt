@@ -1,0 +1,10 @@
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-socketio>=5.11.0
+openai>=1.6.0
+anthropic>=0.30.0
+# google-generativeai>=0.8.0  # No longer needed (Google via OpenAI-compatible endpoint)
+python-dotenv>=1.0.0
+aiofiles>=23.2.0
+# TTS (XTTS): installare anche requirements-tts.txt con Python 3.11 — vedi start_backend.bat
+chromadb>=0.4.22
