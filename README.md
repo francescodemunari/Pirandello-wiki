@@ -101,7 +101,7 @@ L'APK si trova in `mobile_app/build/app/outputs/flutter-apk/`.
 **Voce di base (riferimento):**
 https://github.com/user-attachments/assets/fe1601ba-3892-4601-aa76-249d2cf2d48e
 
-<em>Voce di base registrata per la clonazione TTS.</em>
+Voce di base registrata per la clonazione TTS.
 
 <br>
 
