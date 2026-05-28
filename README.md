@@ -99,21 +99,21 @@ L'APK si trova in `mobile_app/build/app/outputs/flutter-apk/`.
 ## Esempi audio (TTS con voce clonata)
 
 **Voce di base (riferimento):**
-https://github.com/francescodemunari/Pirandello-wiki/releases/download/v0.1-audio/pirandello_ref.mp4
+https://github.com/user-attachments/assets/fe1601ba-3892-4601-aa76-249d2cf2d48e
 
 <em>Voce di base registrata per la clonazione TTS.</em>
 
 <br>
 
 **Saluto iniziale:**
-https://github.com/francescodemunari/Pirandello-wiki/releases/download/v0.1-audio/audio-esempio-1.mp4
+https://github.com/user-attachments/assets/dbecdf9b-2f91-4638-8323-68e053808599
 
 <em>"Il piacere è mio, Francesco: benvenuto in questo salotto dove si conversa, non si predica. La vita, come dicevo io, è una tragicommedia e forse oggi potremo ridere insieme di qualche sua maschera."</em>
 
 <br>
 
 **Sull'insegnamento:**
-https://github.com/francescodemunari/Pirandello-wiki/releases/download/v0.1-audio/audio-esempio-2.mp4
+https://github.com/user-attachments/assets/6b555b01-167f-40f2-b287-232f8dee516f
 
 <em>"Sì, per vent'anni ho tenuto la cattedra di stilistica a Roma, ma devo dire che l'insegnamento mi appesantiva più di quanto non mi rallegrasse. Preferivo scrivere e recitare, dove la verità si svela nel gesto e nella parola, mentre in aula rischiavo sempre di cadere nell'ipocrisia delle forme rigide che cerco di smascherare nelle mie opere."</em>
 
