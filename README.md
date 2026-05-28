@@ -99,18 +99,24 @@ L'APK si trova in `mobile_app/build/app/outputs/flutter-apk/`.
 ## Esempi audio (TTS con voce clonata)
 
 **Voce di base (riferimento):**
-<audio src="https://github.com/francescodemunari/Pirandello-wiki/raw/main/assets/pirandello_ref.wav" controls></audio>
+<audio controls>
+  <source src="https://github.com/francescodemunari/Pirandello-wiki/raw/main/assets/pirandello_ref.wav" type="audio/wav">
+</audio>
 
 <br>
 
 **Saluto iniziale:**
-<audio src="https://github.com/francescodemunari/Pirandello-wiki/raw/main/assets/audio-esempio-1.mp3" controls></audio>
+<audio controls>
+  <source src="https://github.com/francescodemunari/Pirandello-wiki/raw/main/assets/audio-esempio-1.mp3" type="audio/mpeg">
+</audio>
 <em>"Il piacere è mio, Francesco: benvenuto in questo salotto dove si conversa, non si predica. La vita, come dicevo io, è una tragicommedia e forse oggi potremo ridere insieme di qualche sua maschera."</em>
 
 <br>
 
 **Sull'insegnamento:**
-<audio src="https://github.com/francescodemunari/Pirandello-wiki/raw/main/assets/audio-esempio-2.mp3" controls></audio>
+<audio controls>
+  <source src="https://github.com/francescodemunari/Pirandello-wiki/raw/main/assets/audio-esempio-2.mp3" type="audio/mpeg">
+</audio>
 <em>"Sì, per vent'anni ho tenuto la cattedra di stilistica a Roma, ma devo dire che l'insegnamento mi appesantiva più di quanto non mi rallegrasse. Preferivo scrivere e recitare, dove la verità si svela nel gesto e nella parola, mentre in aula rischiavo sempre di cadere nell'ipocrisia delle forme rigide che cerco di smascherare nelle mie opere."</em>
 
 ## API
